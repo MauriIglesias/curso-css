@@ -1,2 +1,2 @@
 # curso-css
-Curso CSS
+Curso de CSS
